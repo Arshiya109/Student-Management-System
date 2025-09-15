@@ -55,7 +55,7 @@ Student-Management-System/
 1. Clone the repository:
    
      ```bash
-         git clone https://github.com/your-username/Student-Management-System.git
+         git clone https://github.com/Arshiya109/Student-Management-System.git
      ````
      
 2. Open the project in your favorite IDE (IntelliJ, Eclipse, VS Code).
